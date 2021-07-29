@@ -20,7 +20,11 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### **The Challenge**<pre>
 Users should be able to:
 - View the optimal layout depending on their device's screen size.</pre>
-### **Screenshot**
+### **Screenshots**<pre>
+- Mobile View<br>
+![SS of stat preview card mobile](https://github.com/InfoColony/Stat-Preview-Card-Challenge/raw/main/images/stat%20card%20preview%20mobile.png)
+- Desktop View
+![SS of stat preview card desktop](https://raw.githubusercontent.com/InfoColony/Stat-Preview-Card-Challenge/main/images/Stat%20card%20preview%20desktop.png)</pre>
 
 
 ### **Links**<pre>
